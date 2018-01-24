@@ -25,7 +25,6 @@ public class InstanceBlockExecution extends Test{
 			e.printStackTrace();
 		}
 		Character character = 'c' ;
-		Character c1 = new Character(value)
 	}
 	static{
 		System.out.println("Inisde InstanceBlockExecution static block");
